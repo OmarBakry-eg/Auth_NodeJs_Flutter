@@ -5,11 +5,11 @@ import 'dart:convert';
 
 class AuthController {
   static const String regUrl =
-      "https://e-learning-back.herokuapp.com/api/v1/signup";
+      "Link Here";
   static const String loginUrl =
-      "https://e-learning-back.herokuapp.com/api/v1/login";
+       "Link Here";
   static const Map<String, String> myHeaders = {
-    'Content-Type': 'application/json',
+    " Headers" : "Here",
   };
   static AuthModel regModel = AuthModel();
 
