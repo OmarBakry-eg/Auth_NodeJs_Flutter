@@ -1,4 +1,4 @@
-# e_learning
+# Flutter Auth with nodeJs
 
 A new Flutter application.
 
